@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-11-25*
+*Updated: 2020-11-26*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you don't want to be listed.
@@ -26,6 +26,7 @@ if you don't want to be listed.
 - Edgar Hipp
 - Eyal Levin
 - Fabian Barajas
+- Gabriel Sanches
 - Gearoid Murphy
 - Gordon McCreight
 - Hannes Rantzsch

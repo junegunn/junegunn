@@ -33,6 +33,7 @@ if you want to change how your name is listed.
 - Hannes Rantzsch
 - Henré Botha
 - Hieu Nguyen
+- [Hiroki Konishi](https://github.com/relastle)
 - IDAGIO GmbH
 - Ivan Aracki
 - j emmanuel enrique delgado lara

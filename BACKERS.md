@@ -4,7 +4,7 @@ Backers :heart:
 *Updated: 2020-11-26*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
-if you don't want to be listed.
+if you want to change how your name is listed.
 
 ---
 
@@ -24,7 +24,7 @@ if you don't want to be listed.
 - Daniel Schumann
 - Dean Marano
 - Dustin Swan's Store
-- Edgar Hipp
+- [Edgar Hipp](https://github.com/edi9999)
 - Eyal Levin
 - Fabian Barajas
 - Gabriel Sanches
@@ -58,7 +58,7 @@ if you don't want to be listed.
 - Simon Eskildsen
 - Sunjae Park
 - Taye Adeyemi
-- Timothy DeVries
+- [Timothy DeVries](https://github.com/tjdevries)
 - Victor Alvarez
 - Wisam Saad
 - Zakaria Fadli

@@ -59,6 +59,7 @@ if you want to change how your name is listed.
 - Simon Eskildsen
 - Sunjae Park
 - Taye Adeyemi
+- Timm Stelzer
 - [Timothy DeVries](https://github.com/tjdevries)
 - Victor Alvarez
 - Wisam Saad

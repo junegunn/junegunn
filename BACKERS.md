@@ -9,6 +9,7 @@ if you don't want to be listed.
 ---
 
 - Aaron Taylor
+- Albert Lee
 - Alexander Schmolck
 - Anders Damsgaard
 - Benjamin Kucera

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-11-26*
+*Updated: 2020-11-29*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -43,6 +43,7 @@ if you want to change how your name is listed.
 - Jay Dorsey
 - Jeffrey Chupp
 - Jonathan Opacich
+- [Jordan Arentsen](https://github.com/blissdev)
 - Lamont Lucas
 - Mabin
 - Marcus Bruno Vieira e Silva

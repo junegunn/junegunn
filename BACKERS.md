@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-11-29*
+*Updated: 2020-12-04*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -25,6 +25,7 @@ if you want to change how your name is listed.
 - Dean Marano
 - Dustin Swan's Store
 - [Edgar Hipp](https://github.com/edi9999)
+- Edward Baudrez
 - Eyal Levin
 - Fabian Barajas
 - Gabriel Sanches

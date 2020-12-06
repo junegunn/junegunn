@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-12-04*
+*Updated: 2020-12-06*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -43,6 +43,7 @@ if you want to change how your name is listed.
 - Jason Leung
 - Jay Dorsey
 - Jeffrey Chupp
+- [Jon Gjengset](https://thesquareplanet.com/)
 - Jonathan Opacich
 - [Jordan Arentsen](https://github.com/blissdev)
 - Lamont Lucas

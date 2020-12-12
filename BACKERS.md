@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-12-06*
+*Updated: 2020-12-12*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -53,6 +53,7 @@ if you want to change how your name is listed.
 - Max Hung
 - Minh Triet Ly
 - Mitchell Hanberg
+- [Nicholas Sergeant](https://nicksergeant.com/)
 - Oskar Mosumgaard
 - peter doherty
 - Phil Thompson

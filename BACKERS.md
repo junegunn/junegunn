@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-12-14*
+*Updated: 2020-12-15*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -46,6 +46,7 @@ if you want to change how your name is listed.
 - [Jon Gjengset](https://thesquareplanet.com/)
 - Jonathan Opacich
 - [Jordan Arentsen](https://github.com/blissdev)
+- Kai Rikhye
 - Lamont Lucas
 - Mabin
 - Marcus Bruno Vieira e Silva

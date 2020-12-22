@@ -50,7 +50,7 @@ if you want to change how your name is listed.
 - Lamont Lucas
 - Mabin
 - Marcus Bruno Vieira e Silva
-- Mathias Jean Johansen
+- [Mathias Jean Johansen](https://mjj.io/)
 - Max Hung
 - Minh Triet Ly
 - Mitchell Hanberg

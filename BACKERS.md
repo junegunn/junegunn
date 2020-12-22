@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-12-15*
+*Updated: 2020-12-22*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -58,6 +58,7 @@ if you want to change how your name is listed.
 - Nicolas Jeker
 - Oskar Mosumgaard
 - peter doherty
+- Peter Groszkowski
 - Phil Thompson
 - Radomirs Cirskis
 - Rajib Ahmed

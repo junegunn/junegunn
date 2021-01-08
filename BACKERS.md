@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2020-12-22*
+*Updated: 2021-01-08*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -57,6 +57,7 @@ if you want to change how your name is listed.
 - [Nicholas Sergeant](https://nicksergeant.com/)
 - Nicolas Jeker
 - Oskar Mosumgaard
+- Paul Chang
 - peter doherty
 - Peter Groszkowski
 - Phil Thompson

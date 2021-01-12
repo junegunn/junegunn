@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-01-08*
+*Updated: 2021-01-12*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -72,5 +72,6 @@ if you want to change how your name is listed.
 - Victor Alvarez
 - Wisam Saad
 - Zakaria Fadli
+- Zhang Wanlong
 - Дмитрий Ольшевский
 - 见 零

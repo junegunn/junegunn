@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-01-17*
+*Updated: 2021-01-22*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -13,6 +13,7 @@ if you want to change how your name is listed.
 - Alexander Schmolck
 - Anders Damsgaard
 - Ashley Towns
+- [Benjamin Esham](https://esham.io/)
 - Benjamin Kucera
 - Bradley Davis
 - Brett Bender

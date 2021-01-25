@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-01-22*
+*Updated: 2021-01-25*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -59,6 +59,7 @@ if you want to change how your name is listed.
 - [Nicholas Sergeant](https://nicksergeant.com/)
 - Nicolas Jeker
 - Noah Hall
+- Oshry Mozes
 - Oskar Mosumgaard
 - Paul Chang
 - peter doherty

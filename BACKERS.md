@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-01-25*
+*Updated: 2021-01-26*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -65,6 +65,7 @@ if you want to change how your name is listed.
 - peter doherty
 - Peter Groszkowski
 - Phil Thompson
+- Pontus Carlsson
 - Radomirs Cirskis
 - Rajib Ahmed
 - Samir Huremovic

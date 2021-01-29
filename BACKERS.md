@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-01-27*
+*Updated: 2021-01-29*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -70,6 +70,7 @@ if you want to change how your name is listed.
 - Rajib Ahmed
 - Samir Huremovic
 - Sean MacArthur
+- Shavaun Brackenbury
 - Simon Eskildsen
 - Sunjae Park
 - Taye Adeyemi

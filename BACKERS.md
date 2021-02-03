@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-02-01*
+*Updated: 2021-02-03*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -54,6 +54,7 @@ if you want to change how your name is listed.
 - Marcus Bruno Vieira e Silva
 - [Mathias Jean Johansen](https://mjj.io/)
 - Max Hung
+- Maxwell Jacobson
 - Minh Triet Ly
 - Mitchell Hanberg
 - Naveen Srinivasan

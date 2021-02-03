@@ -12,6 +12,7 @@ if you want to change how your name is listed.
 - Albert Lee
 - Alexander Schmolck
 - Anders Damsgaard
+- Andrew Haust
 - Ashley Towns
 - [Benjamin Esham](https://esham.io/)
 - Benjamin Kucera

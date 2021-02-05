@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-02-05*
+*Updated: 2021-02-06*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -10,6 +10,7 @@ if you want to change how your name is listed.
 
 - Aaron Taylor
 - Albert Lee
+- Alexander Bock
 - Alexander Schmolck
 - Anders Damsgaard
 - Andrew Haust

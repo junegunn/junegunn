@@ -34,6 +34,7 @@ if you want to change how your name is listed.
 - Edward Baudrez
 - Eyal Levin
 - Fabian Barajas
+- [Flemming Madsen](https://github.com/themadsens)
 - Gabriel Sanches
 - Gearoid Murphy
 - Gordon McCreight

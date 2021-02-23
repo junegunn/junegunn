@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-02-22*
+*Updated: 2021-02-23*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -54,6 +54,7 @@ if you want to change how your name is listed.
 - Jonathan Opacich
 - [Jordan Arentsen](https://github.com/blissdev)
 - Kai Rikhye
+- [Kirill Cherkashin](https://github.com/kirjs)
 - Lamont Lucas
 - Mabin
 - Marcus Bruno Vieira e Silva

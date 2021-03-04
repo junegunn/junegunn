@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-02-27*
+*Updated: 2021-03-04*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -83,6 +83,7 @@ if you want to change how your name is listed.
 - Sean MacArthur
 - Shavaun Brackenbury
 - Simon Eskildsen
+- [Stjepan Glavina](https://github.com/stjepang)
 - Sunjae Park
 - Taye Adeyemi
 - Timm Stelzer

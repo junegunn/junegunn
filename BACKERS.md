@@ -55,6 +55,7 @@ if you want to change how your name is listed.
 - [Jordan Arentsen](https://github.com/blissdev)
 - Kai Rikhye
 - [Kirill Cherkashin](https://github.com/kirjs)
+- [Kristopher Warner](https://github.com/kdwarn)
 - Lamont Lucas
 - [Lee Gaines](https://github.com/eightlimbed)
 - Mabin

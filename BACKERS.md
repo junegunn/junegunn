@@ -95,6 +95,7 @@ if you want to change how your name is listed.
 - Victor Alvarez
 - Wisam Saad
 - [Yojan Shrestha](https://github.com/shri3k)
+- [Zain Allarakhia](https://github.com/zallarak)
 - Zakaria Fadli
 - Zhang Wanlong
 - Дмитрий Ольшевский

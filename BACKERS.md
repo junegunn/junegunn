@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-03-07*
+*Updated: 2021-03-11*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -74,6 +74,7 @@ if you want to change how your name is listed.
 - Oskar Mosumgaard
 - Paul Chang
 - peter doherty
+- [Peter Downs](https://github.com/peterldowns)
 - Peter Groszkowski
 - Phil Thompson
 - [Philippe Fanaro](https://github.com/psygo)

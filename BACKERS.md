@@ -65,6 +65,7 @@ if you want to change how your name is listed.
 - Max Hung
 - Maxwell Jacobson
 - Michael John Williams
+- [Michael Sartain](https://github.com/mikesart)
 - Minh Triet Ly
 - Mitchell Hanberg
 - Mohammad Mohsen Mohammadi Bagheshahi

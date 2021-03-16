@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-03-15*
+*Updated: 2021-03-16*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -91,6 +91,7 @@ if you want to change how your name is listed.
 - Simon Eskildsen
 - [Stjepan Glavina](https://github.com/stjepang)
 - Sunjae Park
+- [Swaroop C H](https://github.com/swaroopch)
 - Taye Adeyemi
 - Timm Stelzer
 - [Timothy DeVries](https://github.com/tjdevries)

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-03-16*
+*Updated: 2021-03-17*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -64,6 +64,7 @@ if you want to change how your name is listed.
 - [Mathias Jean Johansen](https://mjj.io/)
 - Max Hung
 - Maxwell Jacobson
+- [Michael Budde](https://github.com/mbudde)
 - Michael John Williams
 - [Michael Sartain](https://github.com/mikesart)
 - Minh Triet Ly

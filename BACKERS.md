@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-03-17*
+*Updated: 2021-03-18*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -43,6 +43,7 @@ if you want to change how your name is listed.
 - Hieu Nguyen
 - [Hiroki Konishi](https://github.com/relastle)
 - IDAGIO GmbH
+- [Imran Iqbal](https://github.com/imran-iq)
 - Ivan Aracki
 - j emmanuel enrique delgado lara
 - James O'Beirne

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-03-20*
+*Updated: 2021-03-25*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -98,6 +98,7 @@ if you want to change how your name is listed.
 - Taye Adeyemi
 - Timm Stelzer
 - [Timothy DeVries](https://github.com/tjdevries)
+- Timothy Goh
 - Trironk Kiatkungwanglai
 - Victor Alvarez
 - Wisam Saad

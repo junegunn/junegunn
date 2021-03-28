@@ -103,6 +103,7 @@ if you want to change how your name is listed.
 - Timothy Goh
 - Trironk Kiatkungwanglai
 - Victor Alvarez
+- [Vijay Marupudi](https://github.com/vijaymarupudi)
 - Wisam Saad
 - [Yojan Shrestha](https://github.com/shri3k)
 - [Zain Allarakhia](https://github.com/zallarak)

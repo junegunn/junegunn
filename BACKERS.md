@@ -85,6 +85,7 @@ if you want to change how your name is listed.
 - peter doherty
 - [Peter Downs](https://github.com/peterldowns)
 - Peter Groszkowski
+- [Peter Lyons](https://peterlyons.com/)
 - Peter Mantel
 - Phil Thompson
 - [Philippe Fanaro](https://github.com/psygo)

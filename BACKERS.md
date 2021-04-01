@@ -20,6 +20,7 @@ if you want to change how your name is listed.
 - [Benjamin Esham](https://esham.io/)
 - Benjamin Kucera
 - Bradley Davis
+- [Brennen Bearnes](https://p1k3.com/)
 - Brett Bender
 - Camal Cakar
 - Christopher Orr

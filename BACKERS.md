@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-03-29*
+*Updated: 2021-04-01*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -30,6 +30,7 @@ if you want to change how your name is listed.
 - Daniel Schofield
 - Daniel Schumann
 - Dean Marano
+- [DJ Adams](https://github.com/qmacro)
 - Dustin Swan's Store
 - [Edgar Hipp](https://github.com/edi9999)
 - Edward Baudrez

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-04-01*
+*Updated: 2021-04-02*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -43,6 +43,7 @@ if you want to change how your name is listed.
 - Gearoid Murphy
 - Gordon McCreight
 - Hannes Rantzsch
+- [Harsh Shandilya](https://msfjarvis.dev/)
 - Henré Botha
 - Hieu Nguyen
 - [Hiroki Konishi](https://github.com/relastle)

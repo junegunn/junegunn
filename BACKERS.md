@@ -59,6 +59,7 @@ if you want to change how your name is listed.
 - [Jon Gjengset](https://thesquareplanet.com/)
 - Jonathan Opacich
 - [Jordan Arentsen](https://github.com/blissdev)
+- [Jordan Haine](https://github.com/Gee19)
 - Kai Rikhye
 - [Kirill Cherkashin](https://github.com/kirjs)
 - [Kristopher Warner](https://github.com/kdwarn)

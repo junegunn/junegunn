@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-04-04*
+*Updated: 2021-04-07*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -42,6 +42,7 @@ if you want to change how your name is listed.
 - Gabriel Sanches
 - Gearoid Murphy
 - Gordon McCreight
+- [Greg Lucas](https://github.com/glucas)
 - Hannes Rantzsch
 - [Harsh Shandilya](https://msfjarvis.dev/)
 - Henré Botha

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-04-10*
+*Updated: 2021-04-13*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -96,6 +96,7 @@ if you want to change how your name is listed.
 - [Philippe Fanaro](https://github.com/psygo)
 - [Piotr Usewicz](https://github.com/pusewicz)
 - Pontus Carlsson
+- [Prithvi Prabhu](https://github.com/lo5)
 - Radomirs Cirskis
 - Rajib Ahmed
 - Samir Huremovic

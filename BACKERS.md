@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-04-27*
+*Updated: 2021-05-22*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -72,6 +72,7 @@ if you want to change how your name is listed.
 - [Mark Kelly](https://github.com/mckellygit)
 - [Mathias Jean Johansen](https://mjj.io/)
 - Matt Palmer
+- [Mattias Palmgren](https://github.com/mattiaspalmgren)
 - Max Hung
 - Maxwell Jacobson
 - [Michael Budde](https://github.com/mbudde)

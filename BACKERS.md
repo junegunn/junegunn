@@ -114,6 +114,7 @@ if you want to change how your name is listed.
 - Timm Stelzer
 - [Timothy DeVries](https://github.com/tjdevries)
 - Timothy Goh
+- Toby Poynder
 - Trironk Kiatkungwanglai
 - Victor Alvarez
 - [Vijay Marupudi](https://github.com/vijaymarupudi)

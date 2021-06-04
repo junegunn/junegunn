@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-05-27*
+*Updated: 2021-06-04*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -62,6 +62,7 @@ if you want to change how your name is listed.
 - [Jordan Arentsen](https://github.com/blissdev)
 - [Jordan Haine](https://github.com/Gee19)
 - Kai Rikhye
+- Kannan Mavila
 - [Kirill Cherkashin](https://github.com/kirjs)
 - [Kristopher Warner](https://github.com/kdwarn)
 - Lamont Lucas

@@ -19,6 +19,7 @@ if you want to change how your name is listed.
 - Benjamin Elgar
 - [Benjamin Esham](https://esham.io/)
 - Benjamin Kucera
+- [Bertold Sedlak](https://github.com/teaVeloper)
 - Bradley Davis
 - [Brennen Bearnes](https://p1k3.com/)
 - Brett Bender

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-06-04*
+*Updated: 2021-06-10*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -40,6 +40,7 @@ if you want to change how your name is listed.
 - Fahri Cihan Demirci
 - [Flemming Madsen](https://github.com/themadsens)
 - Gabriel Sanches
+- [Gautam Kotian](https://gkotian.github.io/)
 - Gearoid Murphy
 - Gordon McCreight
 - [Greg Lucas](https://github.com/glucas)

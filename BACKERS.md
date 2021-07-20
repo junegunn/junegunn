@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-07-20*
+*Updated: 2021-07-21*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -123,6 +123,7 @@ if you want to change how your name is listed.
 - Trironk Kiatkungwanglai
 - Victor Alvarez
 - [Vijay Marupudi](https://github.com/vijaymarupudi)
+- Wataru Nakagawa
 - Wisam Saad
 - [Yojan Shrestha](https://github.com/shri3k)
 - [Zain Allarakhia](https://github.com/zallarak)

@@ -130,6 +130,7 @@ if you want to change how your name is listed.
 - [Zain Allarakhia](https://github.com/zallarak)
 - Zakaria Fadli
 - Zhang Wanlong
+- Zhihan Chen
 - Дмитрий Ольшевский
 - Шелковин Алексей Юрьевич
 - 见 零

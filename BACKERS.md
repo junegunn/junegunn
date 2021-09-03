@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-09-01*
+*Updated: 2021-09-03*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -113,6 +113,7 @@ if you want to change how your name is listed.
 - [Sean Fredrickson](https://github.com/seanfredrickson)
 - Sean MacArthur
 - Shavaun Brackenbury
+- [Sim Aik Chun](https://github.com/aikchun)
 - Simon Eskildsen
 - [Stan Triepels](https://stantriepels.com/)
 - Stephen Simpson

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-09-09*
+*Updated: 2021-09-13*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -14,6 +14,7 @@ if you want to change how your name is listed.
 - Alexander Schmolck
 - [Alexandru Pană](https://github.com/alexpana)
 - Anders Damsgaard
+- [Andreas Frangopoulos](https://github.com/AndreasFrangopoulos)
 - Andrew Haust
 - Ashley Towns
 - Benjamin Elgar

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-09-13*
+*Updated: 2021-09-16*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -58,7 +58,7 @@ if you want to change how your name is listed.
 - [Imran Iqbal](https://github.com/imran-iq)
 - Ivan Aracki
 - j emmanuel enrique delgado lara
-- James O'Beirne
+- [James O'Beirne](https://github.com/jamesob)
 - Jan Scevlik
 - Jason Leung
 - Jay Dorsey

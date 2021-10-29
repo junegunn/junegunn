@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-10-03*
+*Updated: 2021-10-29*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -40,6 +40,7 @@ if you want to change how your name is listed.
 - Dustin Swan's Store
 - [Edgar Hipp](https://github.com/edi9999)
 - Edward Baudrez
+- Emil Schulz Østergaard
 - [Ereli Eran](https://github.com/ereli)
 - Eyal Levin
 - Fabian Barajas

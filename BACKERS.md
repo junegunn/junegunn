@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-10-29*
+*Updated: 2021-11-01*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -71,6 +71,7 @@ if you want to change how your name is listed.
 - [Jordan Arentsen](https://github.com/blissdev)
 - [Jordan Haine](https://github.com/Gee19)
 - [Julio Jordán](https://github.com/juliojordan)
+- [Justin Blake](https://www.blaix.com/)
 - Kai Rikhye
 - Kannan Mavila
 - [Kirill Cherkashin](https://github.com/kirjs)

@@ -17,6 +17,7 @@ if you want to change how your name is listed.
 - [Andreas Frangopoulos](https://github.com/AndreasFrangopoulos)
 - Andrew Haust
 - Ashley Towns
+- [Baptiste Chaleil](https://mrdotb.com/)
 - Benjamin Elgar
 - [Benjamin Esham](https://esham.io/)
 - Benjamin Kucera

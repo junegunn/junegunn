@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-11-01*
+*Updated: 2021-11-06*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -50,6 +50,7 @@ if you want to change how your name is listed.
 - Gabriel Sanches
 - [Gautam Kotian](https://gkotian.github.io/)
 - Gearoid Murphy
+- Ginger Barrett
 - Gordon McCreight
 - [Greg Lucas](https://github.com/glucas)
 - Hannes Rantzsch

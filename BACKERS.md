@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-11-06*
+*Updated: 2021-11-10*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -109,6 +109,7 @@ if you want to change how your name is listed.
 - peter doherty
 - [Peter Downs](https://github.com/peterldowns)
 - Peter Groszkowski
+- [Peter Lee](https://peterjlee.com/)
 - [Peter Lyons](https://peterlyons.com/)
 - Peter Mantel
 - Peter O Newstein

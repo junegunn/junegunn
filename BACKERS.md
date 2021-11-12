@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-11-10*
+*Updated: 2021-11-12*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -86,6 +86,7 @@ if you want to change how your name is listed.
 - Marcus Bruno Vieira e Silva
 - [Marius Scheel](https://mariusscheel.de/)
 - [Mark Kelly](https://github.com/mckellygit)
+- Martin Pool
 - [Mathias Jean Johansen](https://mjj.io/)
 - Matt Palmer
 - [Mattias Palmgren](https://github.com/mattiaspalmgren)

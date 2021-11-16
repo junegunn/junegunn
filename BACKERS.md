@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-11-12*
+*Updated: 2021-11-16*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -93,6 +93,7 @@ if you want to change how your name is listed.
 - Max Hung
 - Maxwell Jacobson
 - [Michael Budde](https://github.com/mbudde)
+- [Michael Bøcker-Larsen](https://github.com/mblarsen)
 - Michael John Williams
 - [Michael Sartain](https://github.com/mikesart)
 - [Michael Vanier](http://users.cms.caltech.edu/~mvanier/)

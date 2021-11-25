@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-11-16*
+*Updated: 2021-11-25*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -68,6 +68,7 @@ if you want to change how your name is listed.
 - Jay Dorsey
 - [Jeff Windsor](https://github.com/jeffwindsor)
 - Jeffrey Chupp
+- [John Leen](https://github.com/jleen)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - Jonathan Opacich
 - [Jordan Arentsen](https://github.com/blissdev)

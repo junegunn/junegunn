@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-12-01*
+*Updated: 2021-12-05*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -126,6 +126,7 @@ if you want to change how your name is listed.
 - [Prithvi Prabhu](https://github.com/lo5)
 - Radomirs Cirskis
 - Rajib Ahmed
+- [Robert A Walker](https://github.com/HP4k1h5)
 - Sam Kagan
 - Samir Huremovic
 - [Sean Fredrickson](https://github.com/seanfredrickson)

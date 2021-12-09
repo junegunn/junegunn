@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-12-05*
+*Updated: 2021-12-09*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -46,6 +46,7 @@ if you want to change how your name is listed.
 - Eyal Levin
 - Fabian Barajas
 - Fahri Cihan Demirci
+- [Faisal Shah](https://github.com/faisal-shah)
 - [Flemming Madsen](https://github.com/themadsens)
 - Gabriel Sanches
 - [Gautam Kotian](https://gkotian.github.io/)

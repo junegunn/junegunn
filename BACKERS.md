@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-12-10*
+*Updated: 2021-12-17*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -102,6 +102,7 @@ if you want to change how your name is listed.
 - [Michael Sartain](https://github.com/mikesart)
 - [Michael Vanier](http://users.cms.caltech.edu/~mvanier/)
 - Minh Triet Ly
+- Misun Yun
 - Mitchell Hanberg
 - Mohammad Mohsen Mohammadi Bagheshahi
 - Naveen Srinivasan

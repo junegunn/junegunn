@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-12-17*
+*Updated: 2021-12-24*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -85,6 +85,7 @@ if you want to change how your name is listed.
 - [Lee Gaines](https://github.com/eightlimbed)
 - [Leland Kwong](https://lelandkwong.com/)
 - Lim Wee Young
+- [Loïc Reynier](https://loicreynier.fr/)
 - Mabin
 - [Manas Karekar](https://manaskarekar.com/)
 - Marcus Bruno Vieira e Silva

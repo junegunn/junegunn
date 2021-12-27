@@ -86,6 +86,7 @@ if you want to change how your name is listed.
 - [Leland Kwong](https://lelandkwong.com/)
 - Lim Wee Young
 - [Loïc Reynier](https://loicreynier.fr/)
+- [Lukáš Poláček](https://about.me/lukipuki)
 - Mabin
 - [Manas Karekar](https://manaskarekar.com/)
 - Marcus Bruno Vieira e Silva

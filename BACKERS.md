@@ -89,6 +89,7 @@ if you want to change how your name is listed.
 - [Loïc Reynier](https://loicreynier.fr/)
 - [Lukáš Poláček](https://about.me/lukipuki)
 - Mabin
+- [Mahmoud Khaled](https://mahmoudkhld.dev/)
 - [Manas Karekar](https://manaskarekar.com/)
 - Marcus Bruno Vieira e Silva
 - [Marius Scheel](https://mariusscheel.de/)

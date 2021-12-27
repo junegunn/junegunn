@@ -51,6 +51,7 @@ if you want to change how your name is listed.
 - Gabriel Sanches
 - [Gautam Kotian](https://gkotian.github.io/)
 - Gearoid Murphy
+- [George Looshch](https://github.com/looshch)
 - Ginger Barrett
 - Gordon McCreight
 - [Greg Lucas](https://github.com/glucas)

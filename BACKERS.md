@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-12-28*
+*Updated: 2021-12-30*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -87,6 +87,7 @@ if you want to change how your name is listed.
 - [Leland Kwong](https://lelandkwong.com/)
 - Lim Wee Young
 - [Loïc Reynier](https://loicreynier.fr/)
+- [Luis Buehler](https://u-labs.de/)
 - [Lukáš Poláček](https://about.me/lukipuki)
 - Mabin
 - [Mahmoud Khaled](https://mahmoudkhld.dev/)

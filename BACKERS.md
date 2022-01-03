@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2021-12-30*
+*Updated: 2022-01-03*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -112,6 +112,7 @@ if you want to change how your name is listed.
 - Mohammad Mohsen Mohammadi Bagheshahi
 - Naveen Srinivasan
 - [Nicholas Sergeant](https://nicksergeant.com/)
+- [Nick Piepmeier](http://www.pieps.org/)
 - Nicolas Jeker
 - Noah Hall
 - Oleg Mayko

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-01-03*
+*Updated: 2022-01-23*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -136,6 +136,7 @@ if you want to change how your name is listed.
 - Radomirs Cirskis
 - Rajib Ahmed
 - [Robert A Walker](https://github.com/HP4k1h5)
+- [Ryan Roden-Corrent](https://github.com/rcorre)
 - Sam Kagan
 - Samir Huremovic
 - [Sean Fredrickson](https://github.com/seanfredrickson)

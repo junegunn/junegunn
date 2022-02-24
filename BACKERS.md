@@ -165,6 +165,7 @@ if you want to change how your name is listed.
 - Wisam Saad
 - [Yen Tien](https://github.com/southp)
 - [Yojan Shrestha](https://github.com/shri3k)
+- [Youngjae Ji](https://github.com/zirho/)
 - [Zain Allarakhia](https://github.com/zallarak)
 - Zakaria Fadli
 - Zhang Wanlong

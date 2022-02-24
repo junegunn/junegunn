@@ -141,6 +141,7 @@ if you want to change how your name is listed.
 - Sam Kagan
 - Samir Huremovic
 - [Sean Fredrickson](https://github.com/seanfredrickson)
+- Sean Hill
 - Sean MacArthur
 - Shavaun Brackenbury
 - [Sim Aik Chun](https://github.com/aikchun)

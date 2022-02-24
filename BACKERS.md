@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-02-11*
+*Updated: 2022-02-24*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -157,6 +157,7 @@ if you want to change how your name is listed.
 - Timothy Goh
 - Toby Poynder
 - Trironk Kiatkungwanglai
+- tux do
 - Victor Alvarez
 - [Vijay Marupudi](https://github.com/vijaymarupudi)
 - Wataru Nakagawa

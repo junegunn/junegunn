@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-02-24*
+*Updated: 2022-02-28*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -20,6 +20,7 @@ if you want to change how your name is listed.
 - [Baptiste Chaleil](https://mrdotb.com/)
 - Benjamin Elgar
 - [Benjamin Esham](https://esham.io/)
+- [Benjamin Fritsch](https://github.com/beanieboi)
 - Benjamin Kucera
 - [Bertold Sedlak](https://github.com/teaVeloper)
 - Bradley Davis

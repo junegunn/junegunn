@@ -120,6 +120,7 @@ if you want to change how your name is listed.
 - Oleg Mayko
 - Oshry Mozes
 - Oskar Mosumgaard
+- [Park, Juhyung](https://github.com/majecty)
 - [Patrick Kilgore](https://github.com/pckilgore)
 - Paul Chang
 - peter doherty

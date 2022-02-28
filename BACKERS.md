@@ -16,6 +16,7 @@ if you want to change how your name is listed.
 - Anders Damsgaard
 - [Andreas Frangopoulos](https://github.com/AndreasFrangopoulos)
 - Andrew Haust
+- [Andrew Meyer](https://cv.andymeyer.xyz/)
 - Ashley Towns
 - [Baptiste Chaleil](https://mrdotb.com/)
 - Benjamin Elgar

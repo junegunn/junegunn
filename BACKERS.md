@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-03-07*
+*Updated: 2022-03-11*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -151,6 +151,7 @@ if you want to change how your name is listed.
 - [Sim Aik Chun](https://github.com/aikchun)
 - Simon Eskildsen
 - [Stan Triepels](https://stantriepels.com/)
+- Stephan Freund
 - Stephen Simpson
 - [Stjepan Glavina](https://github.com/stjepang)
 - [Suhail](https://github.com/Suhail)

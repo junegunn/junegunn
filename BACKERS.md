@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-03-11*
+*Updated: 2022-03-29*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -29,6 +29,7 @@ if you want to change how your name is listed.
 - Brett Bender
 - Camal Cakar
 - Casey Boettcher
+- [Chang-Hung Liang](https://github.com/eliangcs)
 - Christopher Orr
 - [Chun Fai Alfred Tso](https://github.com/alfredtso)
 - [Clark Lindsay](https://github.com/clark-lindsay)

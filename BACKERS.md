@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-04-04*
+*Updated: 2022-04-05*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -149,6 +149,7 @@ if you want to change how your name is listed.
 - Sean Hill
 - Sean MacArthur
 - Shavaun Brackenbury
+- [Shay Agroskin](https://github.com/ShayAgros)
 - [Shivan Sivakumaran](https://shivansivakumaran.com/)
 - [Sim Aik Chun](https://github.com/aikchun)
 - Simon Eskildsen

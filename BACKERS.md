@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-04-05*
+*Updated: 2022-04-06*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -13,6 +13,7 @@ if you want to change how your name is listed.
 - Alexander Bock
 - Alexander Schmolck
 - [Alexandru Pană](https://github.com/alexpana)
+- Amir Rubin
 - Anders Damsgaard
 - [Andreas Frangopoulos](https://github.com/AndreasFrangopoulos)
 - Andrew Haust

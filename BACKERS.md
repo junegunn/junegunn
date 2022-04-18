@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-04-06*
+*Updated: 2022-04-18*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -53,6 +53,7 @@ if you want to change how your name is listed.
 - Fahri Cihan Demirci
 - [Faisal Shah](https://github.com/faisal-shah)
 - [Flemming Madsen](https://github.com/themadsens)
+- [Frederick Zhang](https://github.com/Frederick888)
 - Gabriel Sanches
 - [Gautam Kotian](https://gkotian.github.io/)
 - Gearoid Murphy

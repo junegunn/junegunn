@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-04-18*
+*Updated: 2022-04-22*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -64,6 +64,7 @@ if you want to change how your name is listed.
 - Gökhan Kocak
 - Hannes Rantzsch
 - [Harsh Shandilya](https://msfjarvis.dev/)
+- [Hendrik Kleinwaechter](https://github.com/hendricius)
 - Henré Botha
 - Hieu Nguyen
 - [Hiroki Konishi](https://github.com/relastle)

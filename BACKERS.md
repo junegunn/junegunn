@@ -106,6 +106,7 @@ if you want to change how your name is listed.
 - Martin Pool
 - [Mathias Jean Johansen](https://mjj.io/)
 - Matt Palmer
+- [Matthew Johnson](https://people.csail.mit.edu/mattjj/)
 - [Mattias Palmgren](https://github.com/mattiaspalmgren)
 - Max Hung
 - Maxwell Jacobson

@@ -164,6 +164,7 @@ if you want to change how your name is listed.
 - Sunjae Park
 - [Swaroop C H](https://github.com/swaroopch)
 - Taye Adeyemi
+- [Thierry Marianne](https://thierry.marianne.io/)
 - Timm Stelzer
 - [Timothy DeVries](https://github.com/tjdevries)
 - Timothy Goh

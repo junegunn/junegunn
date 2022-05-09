@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-04-22*
+*Updated: 2022-05-09*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -175,6 +175,7 @@ if you want to change how your name is listed.
 - Victor Alvarez
 - [Vijay Marupudi](https://github.com/vijaymarupudi)
 - Wataru Nakagawa
+- [Wesley Moore](https://www.wezm.net/)
 - Wisam Saad
 - [Yen Tien](https://github.com/southp)
 - [Yojan Shrestha](https://github.com/shri3k)

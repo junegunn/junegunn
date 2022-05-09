@@ -47,6 +47,7 @@ if you want to change how your name is listed.
 - [Edgar Hipp](https://github.com/edi9999)
 - Edward Baudrez
 - Emil Schulz Østergaard
+- Enrique Delgado Monroy
 - [Ereli Eran](https://github.com/ereli)
 - Eyal Levin
 - Fabian Barajas

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-05-17*
+*Updated: 2022-05-23*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -92,6 +92,7 @@ if you want to change how your name is listed.
 - [Kirill Cherkashin](https://github.com/kirjs)
 - [Kristopher Warner](https://github.com/kdwarn)
 - [Kyle Bebak](https://github.com/kylebebak)
+- Kyle L. Davis
 - Lamont Lucas
 - [Lee Gaines](https://github.com/eightlimbed)
 - [Leland Kwong](https://lelandkwong.com/)

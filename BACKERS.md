@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-05-23*
+*Updated: 2022-05-25*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -169,6 +169,7 @@ if you want to change how your name is listed.
 - [Swaroop C H](https://github.com/swaroopch)
 - Taye Adeyemi
 - [Thierry Marianne](https://thierry.marianne.io/)
+- [Thomas Williams](https://github.com/tjcertified)
 - Timm Stelzer
 - [Timothy DeVries](https://github.com/tjdevries)
 - Timothy Goh

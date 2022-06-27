@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-06-24*
+*Updated: 2022-06-27*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -110,6 +110,7 @@ if you want to change how your name is listed.
 - [Mark Kelly](https://github.com/mckellygit)
 - Martin Pool
 - [Mathias Jean Johansen](https://mjj.io/)
+- Matt Grimm
 - Matt Palmer
 - [Matthew Johnson](https://people.csail.mit.edu/mattjj/)
 - [Mattias Palmgren](https://github.com/mattiaspalmgren)

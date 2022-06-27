@@ -92,6 +92,7 @@ if you want to change how your name is listed.
 - Kai Rikhye
 - Kannan Mavila
 - [Kirill Cherkashin](https://github.com/kirjs)
+- Kiruthiga Kanesharajah
 - [Kristopher Warner](https://github.com/kdwarn)
 - [Kyle Bebak](https://github.com/kylebebak)
 - Kyle L. Davis

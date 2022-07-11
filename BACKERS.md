@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-07-06*
+*Updated: 2022-07-11*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -9,6 +9,7 @@ if you want to change how your name is listed.
 ---
 
 - Aaron Taylor
+- [Abin Simon](https://github.com/meain)
 - [Aidan Miles](https://twitter.com/aidanhmiles)
 - Albert Lee
 - Alexander Bock

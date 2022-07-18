@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-07-11*
+*Updated: 2022-07-18*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -87,6 +87,7 @@ if you want to change how your name is listed.
 - [John Leen](https://github.com/jleen)
 - [Jon Gjengset](https://thesquareplanet.com/)
 - Jonathan Opacich
+- [Jonathan Zacsh](https://j.zac.sh/)
 - [Jordan Arentsen](https://github.com/blissdev)
 - [Jordan Haine](https://github.com/Gee19)
 - [Julio Jordán](https://github.com/juliojordan)

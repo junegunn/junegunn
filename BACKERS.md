@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-07-18*
+*Updated: 2022-07-20*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -22,6 +22,7 @@ if you want to change how your name is listed.
 - [Andrew Meyer](https://cv.andymeyer.xyz/)
 - Ashley Towns
 - [Baptiste Chaleil](https://mrdotb.com/)
+- [Ben Paul](https://github.com/benspaul)
 - Benjamin Elgar
 - [Benjamin Esham](https://esham.io/)
 - [Benjamin Fritsch](https://github.com/beanieboi)

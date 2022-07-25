@@ -101,6 +101,7 @@ if you want to change how your name is listed.
 - [Kristopher Warner](https://github.com/kdwarn)
 - [Kyle Bebak](https://github.com/kylebebak)
 - Kyle L. Davis
+- [Kyle Mitchell](https://kemitchell.com/)
 - Lamont Lucas
 - [Lee Gaines](https://github.com/eightlimbed)
 - [Leland Kwong](https://lelandkwong.com/)

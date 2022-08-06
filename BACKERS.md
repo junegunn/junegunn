@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-07-25*
+*Updated: 2022-08-06*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -68,6 +68,7 @@ if you want to change how your name is listed.
 - Gordon McCreight
 - [Greg Lucas](https://github.com/glucas)
 - Gökhan Kocak
+- [Han-Sheng Huang](https://github.com/zenixls2)
 - Hannes Rantzsch
 - [Harsh Shandilya](https://msfjarvis.dev/)
 - [Hendrik Kleinwaechter](https://github.com/hendricius)

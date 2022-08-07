@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-08-06*
+*Updated: 2022-08-07*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -124,6 +124,7 @@ if you want to change how your name is listed.
 - [Mattias Palmgren](https://github.com/mattiaspalmgren)
 - Max Hung
 - Maxwell Jacobson
+- [Merlin Büge](https://github.com/camoz)
 - [Michael Budde](https://github.com/mbudde)
 - [Michael Bøcker-Larsen](https://github.com/mblarsen)
 - Michael John Williams

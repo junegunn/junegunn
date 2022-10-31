@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-09-23*
+*Updated: 2022-10-31*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -197,6 +197,7 @@ if you want to change how your name is listed.
 - [Yen Tien](https://github.com/southp)
 - [Yojan Shrestha](https://github.com/shri3k)
 - [Youngjae Ji](https://github.com/zirho/)
+- Zachary Csorny
 - [Zain Allarakhia](https://github.com/zallarak)
 - Zakaria Fadli
 - Zhang Wanlong

@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2022-10-31*
+*Updated: 2023-08-02*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -60,6 +60,7 @@ if you want to change how your name is listed.
 - Fahri Cihan Demirci
 - [Faisal Shah](https://github.com/faisal-shah)
 - [Flemming Madsen](https://github.com/themadsens)
+- [Francois Campagnolle](https://github.com/fcpg)
 - [Frederick Zhang](https://github.com/Frederick888)
 - Gabriel Sanches
 - [Gautam Kotian](https://gkotian.github.io/)

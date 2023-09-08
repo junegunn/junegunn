@@ -1,7 +1,7 @@
 Backers :heart:
 ===============
 
-*Updated: 2023-08-02*
+*Updated: 2023-09-08*
 
 Thanks for supporting my work. Please let me know if your name is missing, or
 if you want to change how your name is listed.
@@ -26,6 +26,7 @@ if you want to change how your name is listed.
 - Benjamin Elgar
 - [Benjamin Esham](https://esham.io/)
 - [Benjamin Fritsch](https://github.com/beanieboi)
+- Benjamin Hahn
 - Benjamin Kucera
 - Bertold Sedlak
 - [Bertold Sedlak](https://github.com/teaVeloper)

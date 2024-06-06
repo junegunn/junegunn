@@ -83,6 +83,7 @@ if you want to change how your name is listed.
 - [Imran Iqbal](https://github.com/imran-iq)
 - Ivan Aracki
 - j emmanuel enrique delgado lara
+- Jacobus van Egmond
 - [James O'Beirne](https://github.com/jamesob)
 - Jan Scevlik
 - Jason Leung

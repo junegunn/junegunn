@@ -124,6 +124,7 @@ if you want to change how your name is listed.
 - [Mathias Jean Johansen](https://mjj.io/)
 - Matt Grimm
 - Matt Palmer
+- [Matthew Elks](https://github.com/mattie20)
 - [Matthew Johnson](https://people.csail.mit.edu/mattjj/)
 - [Mattias Palmgren](https://github.com/mattiaspalmgren)
 - Max Hung
